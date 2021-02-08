@@ -28,3 +28,19 @@ body, html {
     border-bottom: solid 4px var(--secondary);
     color: var(--secondary);
 }
+
+/* Slider */
+#slider {
+    background: url('../_img/slider-bg.svg') no-repeat center bottom;
+    background-size: contain;
+}
+
+#slider h1 {
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+#slider h4 {
+    font-size: 18px;
+    text-transform: uppercase;
+}
