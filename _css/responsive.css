@@ -26,4 +26,9 @@
     #clientes .cliente-texto .imagem img {
         max-width: 150px;
     }
+
+    footer ul {
+        padding-top: 30px;
+        justify-content: center;
+    }
 }
