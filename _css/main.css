@@ -1,4 +1,6 @@
 @import url(./magnific-popup.css);
+@import url(./owl/owl.carousel.min.css);
+@import url(./owl/owl.theme.default.min.css);
 @import url(./bootstrap.min.css);
 @import url(./config.css);
 @import url(./global.css);

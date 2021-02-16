@@ -190,3 +190,24 @@ body, html {
 #servicos .element-item img:hover {
     box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.4);
 }
+
+/* Depoimentos */
+#depoimentos .depoimento {
+    background-color: var(--light);
+    border-radius: 5px;
+    display: flex;
+    padding: 30px;
+}
+
+#depoimentos .depoimento .quote {
+    max-width: 35px;
+}
+
+#depoimentos .depoimento .name {
+    color: #aaaaaa;
+}
+
+#depoimentos .depoimento .name span {
+    color: #000;
+    font-weight: 700;
+}
