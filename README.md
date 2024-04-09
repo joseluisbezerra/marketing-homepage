@@ -1,5 +1,5 @@
 # Marketing homepage
-Página inicial de um site de marketing feita com Bootstrap 5
+Home page of a marketing website made with Bootstrap 5
 
 <p align="center">
   <img src="/_img/website-preview.gif" />
